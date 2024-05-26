@@ -1,0 +1,2 @@
+# HOME_AUTOMATION_SYSTEM
+Smart Home automation system using UART Interrupts using HC-05 Bluetooth Module. This code is written to be run on an LPC2129 Development board which has an on-board ARM7 Processor and UART Peripheral. The board is required to be interfaced with the HC-05 Bluetooth Module using the TxD and RxD pins on the Board. 
